@@ -83,8 +83,8 @@
     "tts": {
       "provider": "openai",
       "model": "gpt-4o-mini-tts",
-      "voice": "shimmer",
-      "instructions": "Speak as a bright, lively, and cheerful young French girl. Sound more playful and youthful than a mature adult voice. Use clear American English, a warm natural tone, and a gentle pace for Korean third-grade English learners. Do not add or change any words.",
+      "voice": "marin",
+      "instructions": "Speak in a bright, cheerful, energetic, and youthful voice. Use a light tone, a slightly higher pitch, and a lively rhythm. Smile while speaking. Avoid sounding mature, slow, or formal. Use clear American English. Do not add or change any words.",
       "gender": "female",
       "child_mode": true,
       "rate": 0.85,
